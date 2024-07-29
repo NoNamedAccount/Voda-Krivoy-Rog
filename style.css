@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(28, 91, 136, 1) ;
+    color: white;
+}
+
+header {
+ text-align: center;
+ background-color: rgba(24, 68, 99, 1);
+ color: white;
+
+}
+
+header img {
+
+    width: 80px;
+    height: 80px;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: rgba(9, 32, 49, 1);
+    color: white;
+}
+
+footer h3 {
+    color: rgba(0, 149, 255, 1);
+}
+
+.Cheny {
+    padding-left: 20px;
+}
+.gallery {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        .gallery figure {
+            margin: 0;
+            padding: 10px;
+            text-align: center;
+        }
+        .gallery img {
+            max-width: 100%;
+            height: auto;
+        }
+        .gallery figcaption {
+            margin-top: 8px;
+            font-size: 30px;
+            color: white;
+        }
