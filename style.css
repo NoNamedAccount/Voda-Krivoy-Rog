@@ -53,3 +53,15 @@ footer h3 {
             font-size: 30px;
             color: white;
         }
+
+p {
+    text-align: center;
+}
+
+main h1 {
+    text-align: center;
+}
+main li {
+
+    font-size: 40px;
+}
